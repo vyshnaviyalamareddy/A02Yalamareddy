@@ -8,3 +8,4 @@ Learning JavaScript and jQuery by interacting with a user.
 - JavaScript, a scripting language for the web
 - HTML, a markup language for web apps
 - CSS, a style sheet language for styling markup languages such as html
+! [alt text] (https://github.com/vyshnaviyreddy/A02Yalamareddy/blob/master/VYSHNAVI.jpg)
